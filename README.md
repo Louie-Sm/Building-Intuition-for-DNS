@@ -77,4 +77,3 @@ To fix this, we'll need to go back to the DNS tool on DC-1 and create the CNAME 
 </p>
 <p>
 Once the CNAME record is created, we can ping "search" and it will correctly resolve to "www.google.com".
-https://github.com/Artemisedward/SterlyEdouard
